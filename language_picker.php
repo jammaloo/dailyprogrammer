@@ -13,6 +13,7 @@ $languages = array
 	'Perl',
 	'C',
 	'C++',
+	'Haskell',
 );
 
 echo $languages[rand(0, count($languages) - 1)] . "\n";
