@@ -1,0 +1,30 @@
+body
+{
+    background: #E8E8E8;
+}
+
+.container
+{
+    background: #FFFFFF;
+    border: 1px solid #444444;
+    margin: 50px auto;
+    text-align: center;
+    width: 600px;
+    padding: 10px;
+}
+
+.lap-list
+{
+    list-style: none;
+    padding: 0;
+}
+
+.lap
+{
+    clear: both;
+}
+
+.lap:nth-child(even)
+{
+    background: #E8E8E8;
+}
