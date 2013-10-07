@@ -1,4 +1,4 @@
 dailyprogrammer
 ===============
 
-Challenges from /r/dailyprogrammer in a variety of languages
+Challenges from http://reddit.com/r/dailyprogrammer in a variety of languages
