@@ -15,4 +15,4 @@ $languages = array
 	'C++',
 );
 
-echo $languages[rand(0, count($languages) - 1)];
+echo $languages[rand(0, count($languages) - 1)] . "\n";
