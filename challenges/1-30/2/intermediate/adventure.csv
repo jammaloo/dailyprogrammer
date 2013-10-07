@@ -1,0 +1,5 @@
+0001;You hear a sound, you turn around, you turn around, you see the thing that made the sound! There is an orc running at you with an axe in its hand. Run (r) or Fight (f);r;0002;f;0003
+0002;You take off at a sprint, and the orc quickly closes behind you. Keep running (r) or stop (s);r;0004;s;0005
+0003;The orc wildly swings its axe at you, but you roll at the last second, dodging it. The two of you hug it out and become best friends. HOORAY YOU WIN, THIS IS A VERY SHORT GAME.
+0004;You run through the ribbon at the finishing line. YOU DID IT, YOU WIN THE ORCLYMPICS!
+0005;You stop and the orc continues running, crossing the finishing line. WHY DID YOU STOP? YOU COULD HAVE WON THE RACE! GAME OVER MAN, GAME OVER.
