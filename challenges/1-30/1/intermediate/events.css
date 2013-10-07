@@ -1,0 +1,49 @@
+body
+{
+    background: #E8E8E8;
+}
+
+.container
+{
+    background: #FFFFFF;
+    border: 1px solid #444444;
+    margin: 50px auto;
+    width: 600px;
+}
+
+h1, h2, h3, h4, h5
+{
+    text-align: center;
+}
+
+.date
+{
+    margin: auto 20px;
+}
+
+.event-list
+{
+    list-style: none;
+    padding: 0;
+}
+
+.event
+{
+    clear: both;
+}
+
+.event:nth-child(even)
+{
+    background: #E8E8E8;
+}
+
+.delete-event
+{
+    margin: 10px;
+}
+
+.add-event
+{
+    margin: 10px 0;
+    text-align: center;
+}
