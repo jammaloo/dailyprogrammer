@@ -14,6 +14,7 @@ $languages = array
 	'C',
 	'C++',
 	'Haskell',
+	'Lua',
 );
 
 echo $languages[rand(0, count($languages) - 1)] . "\n";
